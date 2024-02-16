@@ -2,8 +2,8 @@
 
 Python 3.x
 Instructions
-Ensure you have Python installed on your machine.
-Clone or download this repository.
-Navigate to the directory containing q16.py
-Run the Python scripts using these commands:
-python q16.py
+1. Ensure you have Python installed on your machine.
+2. Clone or download this repository.
+3. Navigate to the directory containing q16.py
+4. Run the Python scripts using these commands:
+5. python q16.py
